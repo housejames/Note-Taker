@@ -1,6 +1,6 @@
 # Note Taker
-![alt text](<Screenshot 2024-03-22 at 5.27.59 PM.png>)
-![alt text](<Screenshot 2024-03-22 at 5.28.36 PM.png>)
+![alt text](./public/assets/images/Screenshot%202024-03-22%20at%205.27.59 PM.png)
+![alt text](./public/assets/images/Screenshot%202024-03-22%20at%205.28.36 PM.png)
 ## Description
 
 The Note Taker application is designed to allow users to write and save notes. It provides a simple interface for users to organize their thoughts and keep track of tasks they need to complete. The application utilizes an Express.js back end to handle data storage and retrieval, saving and retrieving note data from a JSON file.
